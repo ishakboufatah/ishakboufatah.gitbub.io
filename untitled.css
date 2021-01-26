@@ -1,0 +1,149 @@
+/*
+	@name untitled
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+#_bg__website_1366 {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(189,189,189,1);
+}
+
+#component_1 {
+	top: 160px;
+	left: 43px;
+	width: 726px;
+	height: 281px;
+}
+
+#rectangle_3 {
+	top: -160px;
+	left: -43px;
+	width: 726px;
+	height: 281px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(196,196,196,1);
+}
+
+
+#cities {
+	top: -20px;
+	left: 180px;
+	width: 336px;
+	height: 191px;
+	overflow: hidden;
+	font-family: Srisakdi;
+	font-size: 80px;
+	text-align: center;
+	line-height: 80px;
+	color:#000000;
+}
+
+
+#algeria {
+	top: -135px;
+	left: 19px;
+	width: 621px;
+	height: 257px;
+	overflow: hidden;
+	font-family: Simonetta;
+	font-size: 120px;
+	text-align: center;
+	line-height: 120px;
+	color:#000000;
+}
+
+#component_2 {
+	top: 160px;
+	left: 847px;
+	width: 474px;
+	height: 550px;
+}
+
+#rectangle_4 {
+	top: -160px;
+	left: -847px;
+	width: 474px;
+	height: 550px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(130.69,126.88,126.88,1);
+}
+
+
+#algeria_has_48_cities_characterized_by_its_climatic_and_topographic_diversity {
+	top: -103px;
+	left: -793px;
+	width: 375px;
+	height: 452px;
+	overflow: hidden;
+	font-family: Rasa;
+	font-size: 50px;
+	text-align: center;
+	line-height: 50px;
+	color:#000000;
+}
+
+#component_3 {
+	top: 537px;
+	left: 166px;
+	width: 522px;
+	height: 103px;
+}
+
+#rectangle_5 {
+	top: -537px;
+	left: -166px;
+	width: 522px;
+	height: 103px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(22.31,21.01,21.01,1);
+}
+
+
+#show_algeria_cities {
+	top: -516px;
+	left: -94px;
+	width: 386px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Rasa;
+	font-size: 50px;
+	text-align: center;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#navbar_1366 {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 128px;
+}
+
+
+
+/* Add your custom CSS here */
