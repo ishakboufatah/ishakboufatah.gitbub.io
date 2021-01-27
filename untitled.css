@@ -28,8 +28,8 @@ div { position: absolute; }
 }
 
 #rectangle_3 {
-	top: -160px;
-	left: -43px;
+	top: 0%;
+	left: 0%;
 	width: 726px;
 	height: 281px;
 	-ms-border-radius: 8px;
@@ -42,8 +42,8 @@ div { position: absolute; }
 
 
 #cities {
-	top: -20px;
-	left: 180px;
+	top: 49.82%;
+	left: 32.51%;
 	width: 336px;
 	height: 191px;
 	overflow: hidden;
@@ -56,8 +56,8 @@ div { position: absolute; }
 
 
 #algeria {
-	top: -135px;
-	left: 19px;
+	top: 8.9%;
+	left: 11.29%;
 	width: 621px;
 	height: 257px;
 	overflow: hidden;
@@ -76,8 +76,8 @@ div { position: absolute; }
 }
 
 #rectangle_4 {
-	top: -160px;
-	left: -847px;
+	top: 0%;
+	left: 0%;
 	width: 474px;
 	height: 550px;
 	-ms-border-radius: 10px;
@@ -90,8 +90,8 @@ div { position: absolute; }
 
 
 #algeria_has_48_cities_characterized_by_its_climatic_and_topographic_diversity {
-	top: -103px;
-	left: -793px;
+	top: 14.91%;
+	left: 13.08%;
 	width: 375px;
 	height: 452px;
 	overflow: hidden;
@@ -110,30 +110,32 @@ div { position: absolute; }
 }
 
 #rectangle_5 {
-	top: -537px;
-	left: -166px;
-	width: 522px;
-	height: 103px;
-	-ms-border-radius: 10px;
-	-o-border-radius: 10px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
-	background:rgba(22.31,21.01,21.01,1);
+        top: 0%;
+        left: 0%;
+        width: 522px;
+        height: 103px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        background:rgba(22.31,21.01,21.01,1);
+
 }
 
 
 #show_algeria_cities {
-	top: -516px;
-	left: -94px;
-	width: 386px;
-	height: 96px;
-	overflow: hidden;
-	font-family: Rasa;
-	font-size: 50px;
-	text-align: center;
-	line-height: 50px;
-	color:#FFFFFF;
+        top: 20.39%;
+        left: 15.33%;
+        width: 386px;
+        height: 96px;
+        overflow: hidden;
+        font-family: Rasa;
+        font-size: 50px;
+        text-align: center;
+        line-height: 50px;
+        color:#FFFFFF;
+
 }
 
 
@@ -142,8 +144,100 @@ div { position: absolute; }
 	left: 0px;
 	width: 1366px;
 	height: 128px;
+	background:rgba(196,196,196,1);
+
+}
+#navbar_web {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	
+}
+#rectangle_6 {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        color: #C4C4C4;
+}
+#icon_menu {
+	position: absolute;
+        visibility: hidden;
+	left: 2.08%;
+        right: 96.25%;
+        top: 37.5%;
+        bottom: 37.5%;
+	color: #9E9E9E;
+}
+#vector1 {
+	position: absolute;
+	width: 14px;
+	height: 0px;
+	left: 9px;
+	top: 10px;
+
+	border: 1px solid #000000;
+}
+#vector2 {
+        position: absolute;
+        width: 14px;
+        height: 0px;
+        left: 9px;
+        top: 16px;
+        border: 1px solid #000000;
 }
 
+#vector3 {
+        position: absolute;
+        width: 14px;
+        height: 0px;
+        left: 9px;
+        top: 22px;
 
+        border: 1px solid #000000;
+}
+	
+#icon_search {
+	position: absolute;
+	left: 92.61%;
+	right: 5.05%;
+	top: 37.5%;
+	bottom: 37.5%;
+	color: #9E9E9E;
+}
 
+#union {
+	position: absolute;
+	width: 18.5px;
+	height: 18.5px;
+	left: 7px;
+	top: 7px;
+
+	color: #000000;
+}
+
+#ellipse2 {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 9.5px;
+	top: 7px;
+
+	border: 1px solid #C4C4C4;
+	box-sizing: border-box;
+}
+
+#vector4 {
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	left: 7.5px;
+	top: 20px;
+
+	border: 1px solid #000000;
+}
+	
 /* Add your custom CSS here */
