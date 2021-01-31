@@ -17,125 +17,104 @@ div { position: absolute; }
 	left: 0px;
 	width: 1366px;
 	height: 768px;
-	background:rgba(189,189,189,1);
+	background:rgba(245,245,245,1);
 }
 
 #component_1 {
-	top: 160px;
-	left: 43px;
-	width: 726px;
-	height: 281px;
+	top: 188px;
+	left: 153px;
+	width: 483px;
+	height: 224px;
 }
 
 #rectangle_3 {
 	top: 0%;
 	left: 0%;
-	width: 726px;
-	height: 281px;
+	width: 483px;
+	height: 224px;
 	-ms-border-radius: 8px;
 	-o-border-radius: 8px;
 	-moz-border-radius: 8px;
 	-webkit-border-radius: 8px;
 	border-radius: 8px;
-	background:rgba(196,196,196,1);
+	background:rgba(229,229,229,1);
 }
 
 
 #cities {
-	top: 49.82%;
-	left: 32.51%;
-	width: 336px;
-	height: 191px;
+	top: 60.27%;
+	left: 32.92%;
+	width: 191px;
+	height: 124.28px;
 	overflow: hidden;
 	font-family: Srisakdi;
-	font-size: 80px;
-	text-align: center;
-	line-height: 80px;
-	color:#000000;
-}
-
-
-#algeria {
-	top: 8.9%;
-	left: 11.29%;
-	width: 621px;
-	height: 257px;
-	overflow: hidden;
-	font-family: Simonetta;
-	font-size: 120px;
-	text-align: center;
-	line-height: 120px;
-	color:#000000;
-}
-
-#component_2 {
-	top: 160px;
-	left: 847px;
-	width: 474px;
-	height: 550px;
-}
-
-#rectangle_4 {
-	top: 0%;
-	left: 0%;
-	width: 474px;
-	height: 550px;
-	-ms-border-radius: 10px;
-	-o-border-radius: 10px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
-	background:rgba(130.69,126.88,126.88,1);
-}
-
-
-#algeria_has_48_cities_characterized_by_its_climatic_and_topographic_diversity {
-	top: 14.91%;
-	left: 13.08%;
-	width: 375px;
-	height: 452px;
-	overflow: hidden;
-	font-family: Rasa;
 	font-size: 50px;
 	text-align: center;
 	line-height: 50px;
 	color:#000000;
 }
 
+
+#A_algeria {
+	top: 0%;
+	left: 14.29%;
+	width: 423.23px;
+	height: 207.91px;
+	overflow: hidden;
+	font-family: Simonetta;
+	font-size: 100px;
+	
+	line-height: 125px;
+	color:#000000;
+}
+
+#algeria {
+        top: 8.9%;
+        left: 11.29%;
+        width: 423.23px;
+        height: 207.91px;
+        overflow: hidden;
+        font-family: Simonetta;
+        font-size: 80px;
+        text-align: center;
+        line-height: 100px;
+        color:#000000;
+}
+
+
+
 #component_3 {
-	top: 537px;
-	left: 166px;
-	width: 522px;
-	height: 103px;
+	top: 601px;
+	left: 211px;
+	width: 368px;
+	height: 63px;
 }
 
 #rectangle_5 {
-        top: 0%;
-        left: 0%;
-        width: 522px;
-        height: 103px;
-        -ms-border-radius: 10px;
-        -o-border-radius: 10px;
-        -moz-border-radius: 10px;
-        -webkit-border-radius: 10px;
-        border-radius: 10px;
-        background:rgba(22.31,21.01,21.01,1);
-
+	top: 0%;
+	left: 0%;
+	width: 368px;
+	height: 63px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(196,196,196,1);
 }
 
 
 #show_algeria_cities {
-        top: 20.39%;
-        left: 15.33%;
-        width: 386px;
-        height: 96px;
-        overflow: hidden;
-        font-family: Rasa;
-        font-size: 50px;
-        text-align: center;
-        line-height: 50px;
-        color:#FFFFFF;
-
+	top: 20.39%;
+	left: 15.33%;
+	width: 270px;
+	height: 58.31px;
+	overflow: hidden;
+	font-family: Rasa;
+	font-size: 30px;
+	text-align: center;
+	line-height: 30px;
+	color:#000000;
 }
 
 
@@ -143,71 +122,110 @@ div { position: absolute; }
 	top: 0px;
 	left: 0px;
 	width: 1366px;
-	height: 128px;
-	background:rgba(196,196,196,1);
+	height: 80px;
+}
+
+#component_2 {
+	top: 505px;
+	left: 861px;
+	width: 449px;
+	height: 163px;
+}
+
+#rectangle_4 {
+	left: -0.38%;
+	right: -0.01%;
+	top: 0%;
+	bottom: 0%;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(224,224,224,1);
+}
+
+
+#algeria_has_48_cities_characterized_by_its_climatic_and_topographic_diversity {
+	left: 12.25%;
+	right: 9.83%;
+	top: 16.56%;
+	bottom: 15.56%;
+	overflow: hidden;
+	font-family: Rasa;
+	font-size: 30px;
+	text-align: center;
+	line-height: 37px;
+	color:#000000;
+}
+
+#image {
+	position: absolute;
+        top: 125px;
+        left: 825px;
+	width: 501px;
+	height: 316px;
+
+	
+}
+
+#navbar_1366 {
+        top: 0px;
+        left: 0px;
+        width: 1366px;
+        height: 80px;
+        background: #E0E0E0;
 
 }
 #navbar_web {
-	position: absolute;
-	left: 0%;
-	right: 0%;
-	top: 0%;
-	bottom: 0%;
-	
-}
-#rectangle_6 {
         position: absolute;
         left: 0%;
         right: 0%;
         top: 0%;
         bottom: 0%;
-        color: #C4C4C4;
 }
-#icon_menu {
-	position: absolute;
-	left: 5.78%;
-        right: 91.87%;
-        top: 37.5%;
-        bottom: 37.5%;
-	background: #9E9E9E;
-}
-#Menu {
+#algerianavbar {
         position: absolute;
+        left: 42.08%;
+        right: 42.08%;
+        top: 29.69%;
+        bottom: 14.06%;
+}
+
+#Algeriacities {
+        top: 0px;
+        left: 0px;
+        width: 216.28px;
+        height: 45px;
+        background: #E0E0E0;
+}
+#icon_menu{
+	position: absolute;
+	left: 4.9%;
+	right: 92.75%;
+	top: 30%;
+	bottom: 30%;
+}
+
+#Menu {
+        top: 0px;
+        left: 0px;
         width: 32px;
         height: 32px;
-        left: 00px;
-        top: 00px;
 }
 
 #icon_search {
 	position: absolute;
-	left: 92.61%;
-	right: 5.05%;
-	top: 37.5%;
-	bottom: 37.5%;
-	background: #9E9E9E;
+	left: 93.56%;
+	right: 4.1%;
+	top: 30%;
+	bottom: 30%;
 }
 
-#union {
-	position: absolute;
-	width: 18.5px;
-	height: 18.5px;
-	left: 7px;
-	top: 7px;
-}
-#algerianavbar {
-	position: absolute;
-	left: 42.08%;
-	right: 42.08%;
-	top: 29.69%;
-	bottom: 14.06%;
-}	
-
-#Algeriacities {
-        position: absolute;
-        width: 216.28px;
-        height: 72px;
-        left: 00px;
-        top: 00px;
+#Search {
+        top: 0px;
+        left: 0px;
+        width: 32px;
+        height: 32px;
 
 /* Add your custom CSS here */
