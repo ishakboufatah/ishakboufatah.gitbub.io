@@ -20,7 +20,7 @@
 		<title>untitled</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="" >
-		<link rel="StyleSheet" href="untitled.css" />
+		<link rel="StyleSheet" href="{{ url_for('static', filename='stylesheets/untitled.css') }}" />
 		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js"></script>
 		<!-- Add your custom HEAD content here -->
 
@@ -59,19 +59,19 @@
 				</div>
 
 			</div>
-				<img src="image.png" id="image" />
-		        
+				<img src="{{ url_for('static', filename='stylesheets/image.png') }}" id="image" />
+		       
 			<div id="navbar_1366" >
                         <div id="navbar_web"></div>
                         <div id="rectangle_6" ></div>
                         <div id="icon_menu">
-                                <img src="Menu.png" id="Menu"></div>
+                                <img src="{{ url_for('static', filename='stylesheets/Menu.png') }}" id="Menu"></div>
 
                         <div id ="icon_search">
-                                <img src="Search.png " id="Search">
+                                <img src="{{ url_for('static', filename='stylesheets/Search.png') }} " id="Search">
                         </div>
                         <div id ="algerianavbar">
-                                <img src="Algeriacities2.png" id="Algeriacities">
+                                <img src="{{ url_for('static', filename='stylesheets/Algeriacities2.png') }}" id="Algeriacities">
                         </div>
 
 		</div>

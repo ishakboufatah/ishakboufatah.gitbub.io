@@ -119,10 +119,12 @@ div { position: absolute; }
 
 
 #navbar_1366 {
-	top: 0px;
-	left: 0px;
-	width: 1366px;
+	position: absolute;
 	height: 80px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+
 }
 
 #component_2 {
@@ -172,7 +174,7 @@ div { position: absolute; }
 #navbar_1366 {
         top: 0px;
         left: 0px;
-        width: 1366px;
+	right: 0px;
         height: 80px;
         background: #E0E0E0;
 
