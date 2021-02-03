@@ -1,0 +1,162 @@
+/*
+	@name untitled
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+#_bg__website_1366 {
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 768px;
+	background:rgba(245,245,245,1);
+}
+#navbar_1366 {
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        height: 80px;
+        background: #E0E0E0;
+
+}
+#navbar_web {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+}
+#algerianavbar {
+        position: absolute;
+        left: 42.08%;
+        right: 42.08%;
+        top: 29.69%;
+        bottom: 14.06%;
+}
+
+#Algeriacities {
+        top: 0px;
+        left: 0px;
+        width: 216.28px;
+        height: 45px;
+        background: #E0E0E0;
+}
+#icon_menu{
+        position: absolute;
+        left: 4.9%;
+        right: 92.75%;
+        top: 30%;
+        bottom: 30%;
+}
+
+#Menu {
+        top: 0px;
+        left: 0px;
+        width: 32px;
+        height: 32px;
+}
+
+#icon_search {
+        position: absolute;
+        left: 93.56%;
+        right: 4.1%;
+        top: 30%;
+        bottom: 30%;
+}
+
+#Search {
+        top: 0px;
+        left: 0px;
+        width: 32px;
+        height: 32px;
+}
+
+#farm4 {
+	position: absolute;
+	height: 1140px;
+	left: 84px;
+	right: 53px;
+	top: 112px;
+}
+
+#post1 {
+	padding: 0px;	
+	position: absolute;
+	left: 0%;
+	right: 69.66%;
+	top: 0%;
+	bottom: 67.98%;
+}
+
+#description1 {
+	position: static;
+	width: 379px;
+	height: 115px;
+	left: 0px;
+	top: 342px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+	text-align: justify;
+	color: #000000;
+}
+
+#setif {
+	position: static;
+	width: 379px;
+	height: 285px;
+	left: 0px;
+	top: 49px;
+	
+	border-radius: 8px;
+	
+}
+#avatar_setif {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 0px;
+
+	position: static;
+	width: 98px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+
+#Setif {
+	position: static;
+	width: 41px;
+	height: 23px;
+	left: 57px;
+	top: 9px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #000000;
+}
+
+#ellipse_setif {
+	position: static;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+
+}
+

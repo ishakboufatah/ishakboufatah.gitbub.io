@@ -1,0 +1,926 @@
+/* Website_1366 */
+
+position: relative;
+width: 1366px;
+height: 768px;
+overflow-y: scroll;
+
+/* Grey / 200 */
+background: #F5F5F5;
+
+
+/* Frame 4 */
+
+position: absolute;
+left: 58px;
+right: 88px;
+top: 155px;
+bottom: -612px;
+
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+left: 0%;
+right: 69.66%;
+top: 0%;
+bottom: 67.98%;
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 98px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(ترامواي_سطيف.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 41px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(9f9b8b8e2fade6dc67566ed2639d4d5d.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 370.2px;
+height: 138px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 379px;
+height: 457px;
+right: 423px;
+top: calc(50% - 457px/2 - 384px);
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 165px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(constantine1.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 108px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(constantine.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 379px;
+height: 115px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+left: 69.08%;
+right: -0.02%;
+top: 0%;
+bottom: 67.98%;
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 92px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(tamenraset1.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 35px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(tamenraset.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 377.45px;
+height: 184px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 379px;
+height: 503px;
+left: 425px;
+top: 563px;
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 100px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(ghardaia.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 43px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(ghardaia1.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 379px;
+height: 161px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 365px;
+left: 0%;
+right: 69.66%;
+top: 563px;
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 104px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(alger.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 47px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(alger1.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 370.2px;
+height: 23px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Post */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 379px;
+height: 365px;
+right: 19px;
+top: calc(50% - 365px/2 + 171px);
+
+
+
+/* Avatar */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 100px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Ellipse 1 */
+
+position: static;
+width: 41px;
+height: 41px;
+left: 0px;
+top: 0px;
+
+background: url(oran1.jpg);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* Sétif */
+
+position: static;
+width: 43px;
+height: 23px;
+left: 57px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+
+
+/* image */
+
+position: static;
+width: 379px;
+height: 285px;
+left: 0px;
+top: 49px;
+
+background: url(oran.jpg);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Description */
+
+position: static;
+width: 379px;
+height: 161px;
+left: 0px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: justify;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+
+
+/* Navbar_1366 */
+
+position: absolute;
+height: 80px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Navbar web */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey / 300 */
+background: #E0E0E0;
+
+
+/* Icon/Search */
+
+position: absolute;
+visibility: hidden;
+left: 95.21%;
+right: 3.12%;
+top: 37.5%;
+bottom: 37.5%;
+
+/* Grey / 500 */
+background: #9E9E9E;
+
+
+/* Icon/Menu */
+
+position: absolute;
+visibility: hidden;
+left: 2.08%;
+right: 96.25%;
+top: 37.5%;
+bottom: 37.5%;
+
+/* Grey / 500 */
+background: #9E9E9E;
+
+
+/* Algeria cities */
+
+position: absolute;
+left: 42.08%;
+right: 42.08%;
+top: 29.69%;
+bottom: 14.06%;
+
+font-family: Rasa;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Icon/Search */
+
+position: absolute;
+left: 93.56%;
+right: 4.1%;
+top: 30%;
+bottom: 30%;
+
+/* Grey / 500 */
+background: #9E9E9E;
+
+
+/* Union */
+
+position: absolute;
+width: 18.5px;
+height: 18.5px;
+left: 7px;
+top: 7px;
+
+background: #000000;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 9.5px;
+top: 7px;
+
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 5px;
+height: 5px;
+left: 7.5px;
+top: 20px;
+
+border: 1px solid #000000;
+
+
+/* Icon/Menu */
+
+position: absolute;
+left: 4.9%;
+right: 92.75%;
+top: 30%;
+bottom: 30%;
+
+/* Grey / 500 */
+background: #9E9E9E;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 14px;
+height: 0px;
+left: 9px;
+top: 10px;
+
+border: 1px solid #000000;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 14px;
+height: 0px;
+left: 9px;
+top: 16px;
+
+border: 1px solid #000000;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 14px;
+height: 0px;
+left: 9px;
+top: 22px;
+
+border: 1px solid #000000;
+
